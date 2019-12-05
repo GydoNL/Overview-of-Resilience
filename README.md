@@ -5,5 +5,3 @@ content included
 - basics to plot a map
 - packages such as tidyverse
 - etc
-
-test 2
